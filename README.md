@@ -2,6 +2,8 @@
 #### By  _**Yap Wei Xiang, Lee Boon Hoe and Asilbek Abdullaev**_
 #### A program that utilises greedy best first search to select goals for Ronny's Maze Problem
 ----
+## Final Path
+![path](https://github.com/xiawi/ronny-maze-clearing/assets/122159364/1879f554-f23f-44eb-bb1a-92f6e3aa4e33)
 ## Usage
 ### Using the Floor Function
 The `floor` function is a part of the `math` library and is used to round down a given floating-point number to the nearest integer. This function is helpful when you need to ensure that a number is always rounded down, regardless of its decimal part.
@@ -74,3 +76,5 @@ Additionally, the user can tweak the `weightage` value to see if there are any b
 
 	def selectGoal(node):
     weightage = .5
+
+
