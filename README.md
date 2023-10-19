@@ -50,7 +50,7 @@ and finally, it shows us the full path taken by Ronny to remove all the rubbish 
 
 ## Instructions
 ### Initialising the Maze
-Simplify change the values below to specify the size of the new maze.
+Simply change the values below to specify the size of the new maze.
 
 	maze_size  = [8,11] # w * h
 
